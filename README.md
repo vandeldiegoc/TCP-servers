@@ -5,6 +5,7 @@
 
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
 Este es un sencillo cliente TCP implementado en Python que permite enviar mensajes a un servicio server en Node.js para recivir y transmitir entre ellos actualizar el estado de equipos mediante un CLI (Command-line interface).
 
 
