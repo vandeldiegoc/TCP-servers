@@ -9,7 +9,7 @@
 Este es un sencillo cliente TCP implementado en Python que permite enviar mensajes a un servicio server en Node.js para recivir y transmitir entre ellos actualizar el estado de equipos mediante un CLI (Command-line interface).
 
 
-## **inicializar  servidor **
+## **inicializar el servidor **
 
 navega hacia el directorio server y corre el comando:
 ```bash
@@ -19,13 +19,13 @@ node dist/server.js
 ```
 
 
-## **inicializar al cliente**
+## **inicializar el cliente**
 navega hacia el directorio client y corre el comando:
 ```bash
 python3 client.py
 ```
 
-##  Como user el  CLIENT CLI
+##  Como Funciona el  CLIENT CLI
 ```bash
 Conexión establecida con localhost:8000
 Ingrese el código del equipo en decimal: 3003 
