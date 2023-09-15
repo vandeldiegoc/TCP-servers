@@ -9,8 +9,6 @@ class TCPAdapter:
 
     def connect(self):
         try:
-            print(self.host)
-            print(self.port)
             self.client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             self.client_socket.connect((self.host, 3000))
             print(f"Conexión establecida con {self.host}:{self.port}")
